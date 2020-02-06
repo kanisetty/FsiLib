@@ -3,7 +3,7 @@
   <groupId>com.example</groupId>
   <artifactId>FSIWar</artifactId>
   <packaging>war</packaging>
-  <version>2020.2.6</version>
+  <version>2020.2.5</version>
   <name>FSIWar Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
