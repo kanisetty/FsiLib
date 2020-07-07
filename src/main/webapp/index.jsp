@@ -1,7 +1,7 @@
 <html> 
    <head> 
       <script> 
-         //function that display value 
+         //function that display value //while space check-in
          function dis(val) 
          { 
              document.getElementById("result").value+=val 
